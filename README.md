@@ -1,3 +1,5 @@
+Autor:@karyneitor3000
+
 frontend-karyneitor
 ===================
 
